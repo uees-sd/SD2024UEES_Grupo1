@@ -1,0 +1,11 @@
+Grupo 1: 
+• Oscar Izurieta Bedón
+• Sebastián Paredes Echeverría
+• Diana Salazar Garcés
+• Ronald Rodríguez Castro
+Tema: 
+PROTOCOLO TCP
+Actividad   : 
+• Implementar un servidor que acepte varias conexiones mediante TCP.
+• En el servidor se maneje un recurso compartido entre los nodos clientes que se conecten al servidor.
+• El recurso compartido será una lista, que será llenada con un dato numérico aleatorio proporcionado por el cliente y luego el servidor retornará la lista con el dato proporcionado por el cliente; es decir, la lista al menos tendrá el dato del cliente recién conectado o con otros datos numéricos aleatorios proporcionados por otros clientes.
