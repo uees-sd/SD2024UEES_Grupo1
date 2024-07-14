@@ -1,0 +1,20 @@
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\ServerApp\bin\Debug\ServerApp.exe.config
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\ServerApp\bin\Debug\ServerApp.exe
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\ServerApp\bin\Debug\ServerApp.pdb
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\ServerApp\obj\Debug\ServerApp.exe
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\jpatino\OneDrive - BMI\Documentos\Visual Studio 2015\Projects\SocketExample\ServerApp\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\jpatino\OneDrive - BMI\Documentos\Visual Studio 2015\Projects\SocketExample\ServerApp\obj\Debug\ServerApp.csproj.ResolveComReference.cache
+C:\Users\jpatino\OneDrive - BMI\Documentos\Visual Studio 2015\Projects\SocketExample\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\jpatino\OneDrive - BMI\Documentos\Visual Studio 2015\Projects\SocketExample\ServerApp\bin\Debug\DataAcces.dll
+C:\Users\jpatino\OneDrive - BMI\Documentos\Visual Studio 2015\Projects\SocketExample\ServerApp\bin\Debug\DataAcces.pdb
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\obj\Debug\ServerApp.csproj.ResolveComReference.cache
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\obj\Debug\ServerApp.csproj.Up2Date
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\ServerApp\obj\Debug\ServerApp.pdb

@@ -1,0 +1,68 @@
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\ApplicationInsights.config
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\csc.exe
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\vbc.exe
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\VBCSCompiler.exe
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Cliente.dll.config
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Cliente.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Cliente.pdb
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.Web.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.ApplicationInsights.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.Web.xml
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.ApplicationInsights.xml
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\obj\Debug\Cliente.dll
+c:\users\jpatino\onedrive - bmi\documentos\visual studio 2015\Projects\SocketExample\Cliente\obj\Debug\Cliente.pdb
+C:\Users\jpatino\OneDrive - BMI\Documentos\Visual Studio 2015\Projects\SocketExample\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\ApplicationInsights.config
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Cliente.dll.config
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Cliente.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Cliente.pdb
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\obj\Debug\Cliente.csproj.Up2Date
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\obj\Debug\Cliente.dll
+C:\Users\USER\Downloads\SocketExample 3\SocketExample\Cliente\obj\Debug\Cliente.pdb
